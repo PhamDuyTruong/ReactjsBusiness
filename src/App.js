@@ -1,9 +1,10 @@
 import ReactjsBusiness from './ReactjsBusiness';
-import './App.css';
+import BaiTapBurger from './BaiTapBurger';
 
 function App() {
   return (
-    <ReactjsBusiness />
+    // <ReactjsBusiness />
+    <BaiTapBurger />
   );
 }
 
